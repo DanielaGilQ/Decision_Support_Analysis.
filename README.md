@@ -1,2 +1,2 @@
-# Decision_Support_Analysis.
-I enjoyed the class and was able to learn new applicable things that I'm sure will be usefull in the future. Although it was a challenging class, I'm thankfulll thant thhe professor was always willing to help us in anything we needed. 
+# Evidence 2- Integrative blog
+I've always been interested in programming, and I'm even considering studying Business Intelligence, so I was really happy to learn about different ways and areas in which we can apply programming to help support our decision making process. In general, this class helped me identify how we can use technology in our advantage, and helped me become more analitical. Even though because of the nature of the topics sometimes it was a challenging class, I'm thankfull that the professor was always willing to help us in anything we needed. Overall I really enjoyed the class and was able to learn new applicable things that I'm sure will be usefull in the future. 
